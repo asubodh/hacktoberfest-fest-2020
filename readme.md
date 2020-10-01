@@ -36,7 +36,7 @@ Ben je geintreseerd om mee te doen? Fork/Clone dan deze repository en zet je naa
 - [Martijn Noordermeer](https://github.com/NorthLake)
 - [Morris Waaijer](https://github.com/kaasbroodju)
 - [Jurgen Braan](https://github.com/jurgen1507)
-- [Subodh Aryal](https://github.com/asubodh)
+- [Subodh Aryal #Hdobusa](https://github.com/asubodh)
 
 
 # Readibles (edibles but for nerds)
